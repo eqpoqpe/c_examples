@@ -1,5 +1,4 @@
-static unsigned int hurt_count(unsigned int *_nums, \
-                const unsigned int _size)
+static unsigned int hurt_count(unsigned int *_nums, unsigned int _size)
 {
         unsigned int count = 0;
         unsigned int index = 0;
