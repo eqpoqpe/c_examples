@@ -1,6 +1,8 @@
-/* GNU/Linux
+/**
+ * GNU/Linux
  * Written by Ryan Martin <?>
  */
+
 #include <stdlib.h>
 
 void *lmalloc(int);
